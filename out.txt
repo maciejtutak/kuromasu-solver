@@ -1,0 +1,144 @@
+BOARD #0:
+==================================================
+DFS:
+# 2
+2 3
+step count:  1
+instances created:  2
+
+A*:
+# 2
+2 3
+step count:  1
+instances created:  2
+
+BOARD #1:
+==================================================
+DFS:
+0 2
+0 #
+step count:  2
+instances created:  6
+
+A*:
+# 2
+0 0
+step count:  1
+instances created:  4
+
+BOARD #2:
+==================================================
+DFS:
+UNSOLVABLE
+step count:  5
+instances created:  9
+
+A*:
+UNSOLVABLE
+step count:  4
+instances created:  5
+
+BOARD #3:
+==================================================
+DFS:
+4 0 0
+0 0 0
+# 0 4
+step count:  69
+instances created:  205
+
+A*:
+4 0 #
+0 0 0
+0 0 4
+step count:  1
+instances created:  8
+
+BOARD #4:
+==================================================
+DFS:
+0 # 2
+5 0 0
+0 0 #
+step count:  63
+instances created:  166
+
+A*:
+0 # 2
+5 0 0
+0 0 #
+step count:  2
+instances created:  14
+
+BOARD #5:
+==================================================
+DFS:
+0 # 2
+4 0 0
+# 0 #
+step count:  49
+instances created:  129
+
+A*:
+0 # 2
+4 0 0
+# 0 #
+step count:  24
+instances created:  90
+
+BOARD #6:
+==================================================
+DFS:
+0 0 # 0
+3 # 2 0
+0 3 # 4
+# 0 0 0
+step count:  3716
+instances created:  19062
+
+A*:
+0 0 # 0
+3 # 2 0
+0 3 # 4
+# 0 0 0
+step count:  15
+instances created:  90
+
+BOARD #7:
+==================================================
+DFS:
+# 0 4 0
+3 0 0 #
+# 0 # 2
+0 7 0 0
+step count:  3761
+instances created:  19193
+
+A*:
+# 0 4 0
+3 0 0 #
+# 0 # 2
+0 7 0 0
+step count:  459
+instances created:  2318
+
+BOARD #8:
+==================================================
+DFS:
+0 # 0 2 #
+6 0 4 # 0
+0 5 # 3 0
+0 0 6 0 8
+# 5 0 # 0
+step count:  90277
+instances created:  625681
+
+A*:
+0 # 0 2 #
+6 0 4 # 0
+0 5 # 3 0
+0 0 6 0 8
+# 5 0 # 0
+step count:  5715
+instances created:  39364
+
